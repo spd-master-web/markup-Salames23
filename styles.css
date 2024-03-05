@@ -1,0 +1,22 @@
+* {
+
+  box-sizing: border-box;
+  }
+  h1 {
+    margin:0;
+    padding:1em;
+  
+    font-size: 8em;
+    letter-spacing: -3px;
+    font-weight: 700;
+    line-height: 1;
+    text-align: Center;
+  }
+  article {
+    padding: 5em; 
+    min-height: 50vh;
+    
+  }
+  footer{
+    padding: 1em;
+  }
